@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_product_meilisearch_product_meilisearch,product_meilisearch.product_meilisearch,model_product_meilisearch_product_meilisearch,base.group_user,1,1,1,1
